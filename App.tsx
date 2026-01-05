@@ -281,7 +281,7 @@ const HomeLanding = ({ onNavigateToProgram }: { onNavigateToProgram: (id: string
           <div className="hidden lg:block relative animate-in zoom-in duration-1000 delay-300">
             <div className="relative z-10 bg-white/5 backdrop-blur-3xl border border-white/10 rounded-[3rem] p-4 shadow-2xl">
               <img 
-                src="https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=2000" 
+                src="https://www.minetecgroup.net/cloud/imgs/VICTOR_PACHECO.png" 
                 className="rounded-[2.5rem] w-full aspect-[4/5] object-cover" 
                 alt="Mag. Victor Pacheco"
               />
@@ -439,7 +439,7 @@ const HomeLanding = ({ onNavigateToProgram }: { onNavigateToProgram: (id: string
             <div className="text-center group">
               <div className="relative inline-block">
                 <img 
-                  src="https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=2000" 
+                  src="https://www.minetecgroup.net/cloud/imgs/VICTOR_PACHECO.png" 
                   className="rounded-full w-80 h-80 object-cover border-[10px] border-white shadow-2xl group-hover:rotate-3 transition-transform duration-500" 
                   alt="Profesor"
                 />
